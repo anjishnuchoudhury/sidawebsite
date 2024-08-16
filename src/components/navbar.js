@@ -8,8 +8,11 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-8 py-5">
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center">
-            <a className="text-white flex-shrink-0 font-poppins" href="/">
-              Circle
+            <a
+              className="text-gradient bg-customYellow flex-shrink-0 font-black text-5xl font-futura"
+              href="/"
+            >
+              SIDA
             </a>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
@@ -21,21 +24,21 @@ const Navbar = () => {
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/blog"
+                  to="/digital"
                 >
-                  Blog
+                  Digital
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/pricing"
+                  to="/technology"
                 >
-                  Pricing
+                  Technology
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/careers"
+                  to="/events"
                 >
-                  Careers
+                  Events
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"

@@ -12,7 +12,7 @@ const Contact = () => {
           <div className="bg-lightblack p-10 rounded-xl w-3/4 m-5">
             <h2 className="text-xs opacity-50">Get in touch</h2>
             <h1 className="text-4xl font-bold font-poppins mt-2 xxs:text-lg sm:text-2xl lg:text-4xl">
-              Let's work together
+              Reach Us
             </h1>
             <p className="text-lg mt-2 opacity-50 w-3/4 xxs:text-xs xxs:w-full sm:text-sm sm:w-3/4">
               Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -51,7 +51,7 @@ const Contact = () => {
           <div className="w-1/4 overflow-hidden rounded-xl m-5 xxs:hidden sm:block">
             <img
               className="object-cover h-full w-full"
-              src="https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+              src="./logo.png"
             ></img>
           </div>
         </div>

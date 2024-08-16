@@ -7,9 +7,12 @@ module.exports = {
     extend: {
       fontFamily: {
         poppins: ["poppins", "sans-serif"],
+        futura: ["Futura", "sans-serif"],
       },
     },
     colors: {
+      purple: colors.purple,
+      yellow: colors.yellow,
       black: colors.black,
       purple: "#a18cd1",
       pink: "#FBC2EB",
@@ -17,6 +20,7 @@ module.exports = {
       lightblack: "#141414",
       gray: colors.gray,
       transparent: colors.transparent,
+      customYellow: "#FFFF00",
     },
     screens: {
       xxs: "320px",

@@ -12,7 +12,7 @@ const CareersRoles = () => {
             href="#"
             className="m-5 p-5 bg-lightblack rounded-xl border cursor-pointer hover:border-purple text-left"
           >
-            <h2 className="text-3xl font-bold">Product Design Manager</h2>
+            <h2 className="text-3xl font-bold">Web Developer</h2>
             <p className="mt-10 opacity-50">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
@@ -24,7 +24,7 @@ const CareersRoles = () => {
             href="#"
             className="m-5 p-5 bg-lightblack rounded-xl border cursor-pointer hover:border-purple text-left"
           >
-            <h2 className="text-3xl font-bold">Senior Data Engineer</h2>
+            <h2 className="text-3xl font-bold">Graphic Designer</h2>
             <p className="mt-10 opacity-50">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
